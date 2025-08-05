@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/arnobdey?usp=sharing](https://sites.google.com/view/arnobdey?usp=sharing)
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **Website Development**
 
 - 📫 How to reach me **deyarnob087@gmail.com**
 
