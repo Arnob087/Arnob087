@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/arnobdey?usp=sharing](https://sites.google.com/view/arnobdey?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/arnobdey?usp=sharing](https://arnob-dey-portfolio.vercel.app/)
 
 - 💬 Ask me about **Website Development**
 
