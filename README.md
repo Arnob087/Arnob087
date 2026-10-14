@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnob087" alt="arnob087" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs, NextJs**
+- 🌱 I’m currently learning **NodeJs, NextJs, ExpressJs**
 
 - 🤝 I’m looking for help with **DevOps**
 
